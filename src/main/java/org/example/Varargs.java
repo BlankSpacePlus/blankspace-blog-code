@@ -1,5 +1,8 @@
 package org.example;
 
+/**
+ * <a href="https://juejin.cn/post/7084262255079981064">文章链接</a>
+ */
 public class Varargs {
 
     public static void function(int var1, int... var2) {

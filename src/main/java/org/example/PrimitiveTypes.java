@@ -1,5 +1,8 @@
 package org.example;
 
+/**
+ * <a href="https://juejin.cn/post/7083888472829722637">文章链接</a>
+ */
 public class PrimitiveTypes {
 
     public static void main(String[] args) {

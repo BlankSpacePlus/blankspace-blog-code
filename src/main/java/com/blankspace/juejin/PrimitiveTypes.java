@@ -1,4 +1,4 @@
-package org.example;
+package com.blankspace.juejin;
 
 /**
  * <a href="https://juejin.cn/post/7083888472829722637">文章链接</a>

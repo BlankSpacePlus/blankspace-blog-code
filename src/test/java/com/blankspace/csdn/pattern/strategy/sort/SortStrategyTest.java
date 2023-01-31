@@ -1,11 +1,7 @@
-package com.blankspace.csdn.strategy.sort;
+package com.blankspace.csdn.pattern.strategy.sort;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-
-import com.blankspace.csdn.pattern.strategy.sort.BubbleSortStrategy;
-import com.blankspace.csdn.pattern.strategy.sort.InsertSortStrategy;
-import com.blankspace.csdn.pattern.strategy.sort.SortStrategy;
 
 public class SortStrategyTest {
 

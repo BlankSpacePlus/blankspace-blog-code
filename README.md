@@ -23,3 +23,6 @@
     - `com.blankspace.csdn.strategy.sort.InsertSortStrategy`
     - `com.blankspace.csdn.strategy.sort.SortStrategy`
     - `com.blankspace.csdn.strategy.sort.SortStrategyTest`
+- [面向对象的可见性](https://blankspace.blog.csdn.net/article/details/114701507)
+    - `com.blankspace.csdn.oop.Rectangle.java`
+    - `com/blankspace/csdn/oop/square_rectangle.cpp`

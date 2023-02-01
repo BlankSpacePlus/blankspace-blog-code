@@ -33,3 +33,8 @@
     - `com.blankspace.csdn.pattern.template.display.CharacterDisplay`
     - `com.blankspace.csdn.pattern.template.display.StringDisplay`
     - `com.blankspace.csdn.pattern.template.display.DisplayTest`
+- [单例模式](https://blankspace.blog.csdn.net/article/details/105337542)
+    - `com.blankspace.csdn.pattern.singleton.DoubleCheckSingleton.java`
+    - `com.blankspace.csdn.pattern.singleton.EagerSingleton.java`
+    - `com.blankspace.csdn.pattern.singleton.LazySingleton.java`
+    - `com.blankspace.csdn.pattern.singleton.SingletonTest.java`

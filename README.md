@@ -41,3 +41,10 @@
 - [重载和重写](https://blankspace.blog.csdn.net/article/details/128881890)
   - `com.blankspace.csdn.oop.OverloadDemo.java`
   - `com.blankspace.csdn.oop.OverrideDemo.java`
+- [迭代器遍历集合](https://blankspace.blog.csdn.net/article/details/128907879)
+  - `com.blankspace.csdn.pattern.iterator.Iterable.java`
+  - `com.blankspace.csdn.pattern.iterator.Iterator.java`
+  - `com.blankspace.csdn.pattern.iterator.Order.java`
+  - `com.blankspace.csdn.pattern.iterator.OrderItem.java`
+  - `com.blankspace.csdn.pattern.iterator.OrderIterator.java`
+  - `com.blankspace.csdn.pattern.iterator.OrderIteratorTest.java`

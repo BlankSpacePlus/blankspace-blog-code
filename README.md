@@ -52,3 +52,5 @@
     - `com.blankspace.csdn.regex.RegexTest.java`
 - [泛型](https://blankspace.blog.csdn.net/article/details/128928431)
     - `com.blankspace.csdn.oop.ParameterizedCollection.java`
+- [网络邮件收发](https://blankspace.blog.csdn.net/article/details/104642821)
+    - `com.blankspace.csdn.mail.MailDemo.java`

@@ -3,10 +3,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.blankspace.juejin</groupId>
-    <artifactId>java-juejin-code</artifactId>
+    <groupId>com.blankspace</groupId>
+    <artifactId>blankspace-blog-code</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>java-juejin-code</name>
+    <name>blankspace-blog-code</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

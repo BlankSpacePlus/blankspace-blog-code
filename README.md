@@ -39,18 +39,22 @@
     - `com.blankspace.csdn.pattern.singleton.LazySingleton.java`
     - `com.blankspace.csdn.pattern.singleton.SingletonTest.java`
 - [重载和重写](https://blankspace.blog.csdn.net/article/details/128881890)
-  - `com.blankspace.csdn.oop.OverloadDemo.java`
-  - `com.blankspace.csdn.oop.OverrideDemo.java`
+    - `com.blankspace.csdn.oop.OverloadDemo.java`
+    - `com.blankspace.csdn.oop.OverrideDemo.java`
 - [迭代器遍历集合](https://blankspace.blog.csdn.net/article/details/128907879)
-  - `com.blankspace.csdn.pattern.iterator.Iterable.java`
-  - `com.blankspace.csdn.pattern.iterator.Iterator.java`
-  - `com.blankspace.csdn.pattern.iterator.Order.java`
-  - `com.blankspace.csdn.pattern.iterator.OrderItem.java`
-  - `com.blankspace.csdn.pattern.iterator.OrderIterator.java`
-  - `com.blankspace.csdn.pattern.iterator.OrderIteratorTest.java`
+    - `com.blankspace.csdn.pattern.iterator.Iterable.java`
+    - `com.blankspace.csdn.pattern.iterator.Iterator.java`
+    - `com.blankspace.csdn.pattern.iterator.Order.java`
+    - `com.blankspace.csdn.pattern.iterator.OrderItem.java`
+    - `com.blankspace.csdn.pattern.iterator.OrderIterator.java`
+    - `com.blankspace.csdn.pattern.iterator.OrderIteratorTest.java`
 - [正则表达式](https://blankspace.blog.csdn.net/article/details/128928424)
     - `com.blankspace.csdn.regex.RegexTest.java`
 - [泛型](https://blankspace.blog.csdn.net/article/details/128928431)
     - `com.blankspace.csdn.oop.ParameterizedCollection.java`
 - [网络邮件收发](https://blankspace.blog.csdn.net/article/details/104642821)
     - `com.blankspace.csdn.mail.MailDemo.java`
+- [布尔逻辑](https://blankspace.blog.csdn.net/article/details/129391439)
+    - `com.blankspace.csdn.basic.BooleanTest`
+- [变量类型推断](https://blankspace.blog.csdn.net/article/details/129401446)
+    - `com.blankspace.csdn.oop.InstanceOfTest.java`

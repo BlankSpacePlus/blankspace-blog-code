@@ -1,6 +1,6 @@
 package com.blankspace.csdn.oop;
 
-public class Rectangle {
+public class Rectangle extends Shape {
 
     private int a, b;
 
@@ -9,6 +9,7 @@ public class Rectangle {
         this.b = b;
     }
 
+    @Override
     public int getPerimeter() {
         return this.a + this.b;
     }

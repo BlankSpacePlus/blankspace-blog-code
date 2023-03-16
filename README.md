@@ -19,20 +19,20 @@
     - `com.blankspace.csdn.algorithm.ATOH.java`
     - `com.blankspace.csdn.algorithm.TOH.java`
 - [策略和机制分离](https://blankspace.blog.csdn.net/article/details/128749140)
-    - `com.blankspace.csdn.pattern.strategy.sort.BubbleSortStrategy`
-    - `com.blankspace.csdn.pattern.strategy.sort.InsertSortStrategy`
-    - `com.blankspace.csdn.pattern.strategy.sort.SortStrategy`
-    - `com.blankspace.csdn.pattern.strategy.sort.SortStrategyTest`
+    - `com.blankspace.csdn.pattern.strategy.sort.BubbleSortStrategy.java`
+    - `com.blankspace.csdn.pattern.strategy.sort.InsertSortStrategy.java`
+    - `com.blankspace.csdn.pattern.strategy.sort.SortStrategy.java`
+    - `com.blankspace.csdn.pattern.strategy.sort.SortStrategyTest.java`
 - [面向对象的可见性](https://blankspace.blog.csdn.net/article/details/114701507)
     - `com.blankspace.csdn.oop.Rectangle.java`
     - `com/blankspace/csdn/oop/square_rectangle.cpp`
 - [抽象类和模板模式](https://blankspace.blog.csdn.net/article/details/123172755)
     - `com.blankspace.csdn.oop.Shape.java`
     - `com/blankspace/csdn/oop/shape_square.cpp`
-    - `com.blankspace.csdn.pattern.template.display.AbstractDisplay`
-    - `com.blankspace.csdn.pattern.template.display.CharacterDisplay`
-    - `com.blankspace.csdn.pattern.template.display.StringDisplay`
-    - `com.blankspace.csdn.pattern.template.display.DisplayTest`
+    - `com.blankspace.csdn.pattern.template.display.AbstractDisplay.java`
+    - `com.blankspace.csdn.pattern.template.display.CharacterDisplay.java`
+    - `com.blankspace.csdn.pattern.template.display.StringDisplay.java`
+    - `com.blankspace.csdn.pattern.template.display.DisplayTest.java`
 - [单例模式](https://blankspace.blog.csdn.net/article/details/105337542)
     - `com.blankspace.csdn.pattern.singleton.DoubleCheckSingleton.java`
     - `com.blankspace.csdn.pattern.singleton.EagerSingleton.java`
@@ -55,7 +55,7 @@
 - [网络邮件收发](https://blankspace.blog.csdn.net/article/details/104642821)
     - `com.blankspace.csdn.mail.MailDemo.java`
 - [布尔逻辑](https://blankspace.blog.csdn.net/article/details/129391439)
-    - `com.blankspace.csdn.basic.BooleanTest`
+    - `com.blankspace.csdn.basic.BooleanTest.java`
 - [变量类型推断](https://blankspace.blog.csdn.net/article/details/129401446)
     - `com.blankspace.csdn.oop.InstanceOfTest.java`
 - [Java二十一点游戏的设计与实现](https://blankspace.blog.csdn.net/article/details/103329628)

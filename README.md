@@ -60,3 +60,5 @@
     - `com.blankspace.csdn.oop.InstanceOfTest.java`
 - [Java二十一点游戏的设计与实现](https://blankspace.blog.csdn.net/article/details/103329628)
   - `com.blankspace.csdn.basic.BlackJackGame.java`
+- [Java随机发牌程序的设计与实现](https://blankspace.blog.csdn.net/article/details/101390226)
+  - `com.blankspace.csdn.basic.CardHandler.java`

@@ -59,6 +59,10 @@
 - [变量类型推断](https://blankspace.blog.csdn.net/article/details/129401446)
     - `com.blankspace.csdn.oop.InstanceOfTest.java`
 - [Java二十一点游戏的设计与实现](https://blankspace.blog.csdn.net/article/details/103329628)
-  - `com.blankspace.csdn.basic.BlackJackGame.java`
+    - `com.blankspace.csdn.basic.BlackJackGame.java`
 - [Java随机发牌程序的设计与实现](https://blankspace.blog.csdn.net/article/details/101390226)
-  - `com.blankspace.csdn.basic.CardHandler.java`
+    - `com.blankspace.csdn.basic.CardHandler.java`
+- [Java猜数字游戏的设计与实现](https://blankspace.blog.csdn.net/article/details/105326344)
+    - `com.blankspace.csdn.basic.GuessNumber.java`
+- [代码段运行时长测量](https://blankspace.blog.csdn.net/article/details/104633563)
+    - `com.blankspace.csdn.basic.PerformanceTimer.java`

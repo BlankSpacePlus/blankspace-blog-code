@@ -70,3 +70,8 @@
     - `com.blankspace.csdn.concurrent.ConditionDemo.java`
     - `com.blankspace.csdn.concurrent.ReentrantLockDemo.java`
     - `com.blankspace.csdn.concurrent.ReentrantReadWriteLockDemo.java`
+- [NaN与INF](https://blankspace.blog.csdn.net/article/details/129543890)
+    - `com.blankspace.csdn.basic.InfinityTest.java`
+    - `com.blankspace.csdn.basic.NaNTest.java`
+- [EOF](https://blankspace.blog.csdn.net/article/details/129765339)
+    - `com.blankspace.csdn.basic.EOFTest.java`

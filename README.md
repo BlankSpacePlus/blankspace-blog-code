@@ -75,3 +75,7 @@
     - `com.blankspace.csdn.basic.NaNTest.java`
 - [EOF](https://blankspace.blog.csdn.net/article/details/129765339)
     - `com.blankspace.csdn.basic.EOFTest.java`
+- [Optional、OptionalDouble、OptionalInt、OptionalLong](https://blankspace.blog.csdn.net/article/details/103219839)
+    - `com.blankspace.csdn.basic.OptionalDemo.java`
+    - `com.blankspace.csdn.basic.OptionalIntDemo.java`
+    - `com.blankspace.csdn.basic.OptionalStreamDemo.java`

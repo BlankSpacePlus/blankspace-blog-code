@@ -79,3 +79,6 @@
     - `com.blankspace.csdn.basic.OptionalDemo.java`
     - `com.blankspace.csdn.basic.OptionalIntDemo.java`
     - `com.blankspace.csdn.basic.OptionalStreamDemo.java`
+- [java.util.DoubleSummaryStatistics](https://blankspace.blog.csdn.net/article/details/130435897)
+    - `com.blankspace.csdn.function.DoubleConsumerDemo.java`
+    - `com.blankspace.csdn.function.DoubleStatisticsDemo.java`

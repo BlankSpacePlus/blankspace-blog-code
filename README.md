@@ -82,3 +82,7 @@
 - [java.util.DoubleSummaryStatistics](https://blankspace.blog.csdn.net/article/details/130435897)
     - `com.blankspace.csdn.function.DoubleConsumerDemo.java`
     - `com.blankspace.csdn.function.DoubleStatisticsDemo.java`
+- [Java数组的类型](https://blankspace.blog.csdn.net/article/details/104083129)
+    - `com.blankspace.csdn.basic.ArrayTypeDemo.java`
+- [Java数组拷贝](https://blankspace.blog.csdn.net/article/details/104645939)
+    - `com.blankspace.csdn.basic.ArrayCopyDemo.java`

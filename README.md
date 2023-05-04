@@ -86,3 +86,8 @@
     - `com.blankspace.csdn.basic.ArrayTypeDemo.java`
 - [Java数组拷贝](https://blankspace.blog.csdn.net/article/details/104645939)
     - `com.blankspace.csdn.basic.ArrayCopyDemo.java`
+- [Array、List的类型转换](https://blankspace.blog.csdn.net/article/details/123453777)
+    - `com.blankspace.csdn.basic.ArrayToListDemo.java`
+    - `com.blankspace.csdn.basic.ListToArrayDemo.java`
+- [Object.clone()与java.lang.Cloneable](https://blankspace.blog.csdn.net/article/details/115519594)
+    - `com.blankspace.csdn.basic.CloneClassDemo.java`

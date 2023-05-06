@@ -91,3 +91,5 @@
     - `com.blankspace.csdn.basic.ListToArrayDemo.java`
 - [Object.clone()与java.lang.Cloneable](https://blankspace.blog.csdn.net/article/details/115519594)
     - `com.blankspace.csdn.basic.CloneClassDemo.java`
+- [Math与StrictMath](https://blankspace.blog.csdn.net/article/details/90446921)
+    - `com.blankspace.csdn.basic.MathDemo.java`

@@ -93,3 +93,5 @@
     - `com.blankspace.csdn.basic.CloneClassDemo.java`
 - [Math与StrictMath](https://blankspace.blog.csdn.net/article/details/90446921)
     - `com.blankspace.csdn.basic.MathDemo.java`
+- [类初始化](https://blankspace.blog.csdn.net/article/details/130394673)
+    - `com.blankspace.csdn.basic.InitializationOrderDemo.java`
